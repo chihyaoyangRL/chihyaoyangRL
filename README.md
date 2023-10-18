@@ -17,7 +17,4 @@
 
 
 
-https://img.shields.io/badge/php-red?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=006bc0&color=006bc0
-
-
 ![Snake animation](https://github.com/chihyaoyangRL/chihyaoyangRL/blob/output/github-contribution-grid-snake.svg)
