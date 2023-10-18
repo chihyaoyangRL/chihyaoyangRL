@@ -1,10 +1,8 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Chih Yao Yang and my nickname is "Chih"!
-- ⚡Programador de 3 anos de experiência
-- 🔭 Atualmente estou trabalhando Act sistemas em função de programdor mobile/web
+## Meu nome é Chih Yao Yang e meu apelido "Chih"!
+- 🔭 Atualmente estou trabalhando Grupo ACT Sistemas em cargo de programador Mobile/Web.
 
-  ## Contatos:
-
+## Contatos:
 <div>
 <a href="mailto:yangrafaels@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/chih-yao-yang-2b477a21a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -24,9 +22,7 @@
 ![Trello](https://img.shields.io/badge/Trello-brightgreen?style=for-the-badge&logo=trello&labelColor=0079BF&color=0079BF)
 ![Slack](https://img.shields.io/badge/slack-brightgreen?style=for-the-badge&logo=slack&labelColor=DFA110&color=DFA110)
 
-
 ##
-
 <div>
 <a href="https://github.com/chihyaoyangRL">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihyaoyangRL&layout=compact&langs_count=7&theme=dracula"/>
@@ -34,5 +30,4 @@
 </div>
 
 ##
-
 ![Snake animation](https://github.com/chihyaoyangRL/chihyaoyangRL/blob/output/github-contribution-grid-snake.svg)
