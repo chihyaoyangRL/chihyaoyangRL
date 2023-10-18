@@ -10,4 +10,26 @@
 ![MySQL](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
 
 
+
+
+
+
+
+
+
+![PHP](https://img.shields.io/badge/php-red?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
+
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-red?style=for-the-badge&logo=CodeIgniter&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
+
+
+
+
+
+
+
+
+https://img.shields.io/badge/php-red?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=006bc0&color=006bc0
+
+
 ![Snake animation](https://github.com/chihyaoyangRL/chihyaoyangRL/blob/output/github-contribution-grid-snake.svg)
