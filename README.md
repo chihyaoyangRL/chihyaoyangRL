@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=ff8c00&color=ff8c00)
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
-![MySQL]([https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=006bc0&color=006bc0](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg))
+![MySQL](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
 
 
 ![Snake animation](https://github.com/chihyaoyangRL/chihyaoyangRL/blob/output/github-contribution-grid-snake.svg)
