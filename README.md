@@ -1,12 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+## My name is Chih Yao Yang and my nickname is "Chih"!
 
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 💻 Tech Skills
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=ff8c00&color=ff8c00)
+![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
+![MySQL]([https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=006bc0&color=006bc0](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg))
 
 
 ![Snake animation](https://github.com/chihyaoyangRL/chihyaoyangRL/blob/output/github-contribution-grid-snake.svg)
