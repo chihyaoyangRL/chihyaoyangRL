@@ -11,7 +11,9 @@
 ![PHP](https://img.shields.io/badge/php-red?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-red?style=for-the-badge&logo=CodeIgniter&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
 
-
+## ✍️ Soft Skills
+![Trello](https://img.shields.io/badge/Trello-brightgreen?style=for-the-badge&logo=trello&labelColor=0079BF&color=0079BF)
+![Slack](https://img.shields.io/badge/slack-brightgreen?style=for-the-badge&logo=slack&labelColor=DFA110&color=DFA110)
 
 
 <div>
