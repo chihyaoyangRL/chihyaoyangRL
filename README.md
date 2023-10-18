@@ -8,21 +8,9 @@
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=ff8c00&color=ff8c00)
 ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
 ![MySQL](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
-
-
-
-
-
-
-
-
-
 ![PHP](https://img.shields.io/badge/php-red?style=for-the-badge&logo=php&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
-
-
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-red?style=for-the-badge&logo=CodeIgniter&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
-
-
+![jQuery](https://img.shields.io/badge/jquery-red?style=for-the-badge&logo=jquery&logoColor=FFFFFF&labelColor=006bc0&color=006bc0)
 
 
 
