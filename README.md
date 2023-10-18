@@ -1,5 +1,17 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Chih Yao Yang and my nickname is "Chih"!
+- ⚡Programador de 3 anos de experiência
+- 🔭 Atualmente estou trabalhando Act sistemas em função de programdor mobile/web
+
+  ## Contatos:
+
+<div>
+
+
+
+<a href = "mailto:contato@yangrafaels@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/chih-yao-yang" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ## 💻 Tech Skills
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
