@@ -1,6 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
-## Meu nome é Chih Yao Yang e meu apelido "Chih"!
-- 🔭 Atualmente estou trabalhando Grupo ACT Sistemas em cargo de programador Mobile/Web.
 
 ## Contatos:
 <div>
